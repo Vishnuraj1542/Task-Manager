@@ -5,10 +5,10 @@
 __pycache__/
 *.so
 venv/
-db.sqlite3
+backend/db.sqlite3
 media/
 staticfiles/
-.env
+backend/.env
 *.log
 .vscode/
 .idea/
